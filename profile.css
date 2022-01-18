@@ -11,10 +11,23 @@ body{background-color: #334257;}
     height: 7rem;
 }
 .section-2{
-
+    height: auto;
+/* 
+    text-align: center; */
+}
+.align-center{
     text-align: center;
 }
 #heading{
     padding-top: 1rem;
    font-weight: bold;
+}
+.pic{
+    height: 25rem;
+    padding: 0 6rem;
+}
+.sweet{
+    float: right;
+    padding-top: 9rem;
+    
 }

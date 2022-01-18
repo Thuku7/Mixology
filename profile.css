@@ -1,0 +1,20 @@
+body{background-color: #334257;}
+.section-1{
+    background-image: url(pics/photo-1563223771-5fe4038fbfc9.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 25rem;
+    background-position: center;
+
+}
+#image{
+    height: 7rem;
+}
+.section-2{
+
+    text-align: center;
+}
+#heading{
+    padding-top: 1rem;
+   font-weight: bold;
+}

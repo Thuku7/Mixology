@@ -11,39 +11,56 @@
 </head>
 <body>
     <div class="container">
-        <nav class="navbar navbar-expand-md navbar-light" >
-            <img src="./homeimages/cocktail-removebg-preview.png" height="50px" alt="">
+        
+            <nav class="navbar navbar-expand-md navbar-light" >
+                <img src="./homeimages/cocktail-removebg-preview.png" height="50px" alt="">
+    
+                <button
+                    class="navbar-toggler"
+                    type="button"
+                    data-bs-toggle = "collapse"
+                    data-bs-target = "#toggleMobileMenu"
+                    aria-controls="toggleMobileMenu"
+                    aria-expanded="false"
+                    aria-lable="Toggle navigation"
+    
+                >
+                    <span class="navbar-toggler-icon" ></span>
+    
+                </button>
+                <div class="collapse navbar-collapse" id="toggleMobileMenu">
+                    <ul class="navbar-nav ms-auto text-center">
+                        <li>
+                            <a  class="nav-link" href="#">HOME</a>
+                        </li>
+                        <li>
+                            <a  class="nav-link" href="#">PEOPLE</a>
+                        </li>
+                        <li>
+                            <a  class="nav-link" href="#">ORDERS</a>
+                        </li>
+                        <li>
+                            <a  class="nav-link" href="#">CONTACT</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <section class="about">
+                <div class="info">
+                    <h2>Delivering the <br> world's best cocktails </h2>
+                    <p>We ship cocktails kits with everything you <br> need (inclusing the spirits ) to mix up bar <br> quality drinks from the comfort of <br> your own home</p>
 
-            <button
-                class="navbar-toggler"
-                type="button"
-                data-bs-toggle = "collapse"
-                data-bs-target = "#toggleMobileMenu"
-                aria-controls="toggleMobileMenu"
-                aria-expanded="false"
-                aria-lable="Toggle navigation"
-
-            >
-                <span class="navbar-toggler-icon" ></span>
-
-            </button>
-            <div class="collapse navbar-collapse" id="toggleMobileMenu">
-                <ul class="navbar-nav ms-auto text-center">
-                    <li>
-                        <a  class="nav-link" href="#">HOME</a>
-                    </li>
-                    <li>
-                        <a  class="nav-link" href="#">PEOPLE</a>
-                    </li>
-                    <li>
-                        <a  class="nav-link" href="#">ORDERS</a>
-                    </li>
-                    <li>
-                        <a  class="nav-link" href="#">CONTACT</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
+                    <button 
+                    class="explore"
+                    type="submit"
+                    >
+                    EXPLORE
+                    </button>
+                </div>
+               
+            </section>
+        
+       
        
     </div>
 

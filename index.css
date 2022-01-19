@@ -1,3 +1,17 @@
-.nav-link{
-    color: black;
+.about{
+    background-image: url(./homeimages/cocktaillll.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.info{
+    float: right;
+    padding-top: 120px;
+    font-size: larger;
+    padding-right: 100px;
+}
+.explore{
+    border-radius: 15px;
+    background-color: coral;
 }

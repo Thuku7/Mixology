@@ -1,18 +1,26 @@
-body{
-    background-color: #334257;
+body {
+  background-color: #334257;
 }
-form{
-    color: white;
-    padding:3% 5% 3% 5%;
+form {
+  color: white;
+  padding: 3% 5% 3% 5%;
+  
 }
 /* color:c4c4c4; */
-#inputMessage{
-    height: 20vh;
+#inputMessage {
+  height: 20vh;
+  background-color: #c4c4c4;
 }
-#aob{
-    height: 10vh;
+#aob {
+  height: 10vh;
+  background-color: #c4c4c4;
 }
-#btn{
-    background-color: #c4c4c4;
-    border-radius: 25px;
+#btn {
+  background-color: #c4c4c4;
+  border-radius: 25px;
+}
+#inputName,
+#inputEmail,
+#firstName {
+    background-color:#c4c4c4 ;
 }

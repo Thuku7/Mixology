@@ -19,6 +19,7 @@
 .trending{
     background-color: #334257;
     height: 300px;
+   
 }
 
 .trending h2{
@@ -28,4 +29,12 @@
 
 .cocktails{
     margin: 60px;
+}
+
+.toasted{
+  background-image: url(./homeimages/cockkkkkk.jpg);
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }

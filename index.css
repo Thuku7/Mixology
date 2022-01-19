@@ -15,3 +15,17 @@
     border-radius: 15px;
     background-color: coral;
 }
+
+.trending{
+    background-color: #334257;
+    height: 300px;
+}
+
+.trending h2{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.cocktails{
+    margin: 60px;
+}

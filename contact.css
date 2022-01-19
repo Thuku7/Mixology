@@ -1,7 +1,18 @@
 body{
     background-color: #334257;
-    color: ;
 }
 form{
     color: white;
+    padding:3% 5% 3% 5%;
+}
+/* color:c4c4c4; */
+#inputMessage{
+    height: 20vh;
+}
+#aob{
+    height: 10vh;
+}
+#btn{
+    background-color: #c4c4c4;
+    border-radius: 25px;
 }

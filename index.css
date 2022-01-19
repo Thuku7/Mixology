@@ -27,7 +27,14 @@
     padding-top: 40px;
 }
 
-
+.trendingCocktails{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+.cocktails{
+    margin: 10px;
+}
 
 .toasted{
   background-image: url(./homeimages/cockkkkkk.jpg);

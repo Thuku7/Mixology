@@ -3,8 +3,8 @@ body {
 }
 form {
   color: white;
-  padding: 3% 5% 3% 5%;
-  
+  padding: 1% 6% 3% 18%;
+
 }
 /* color:c4c4c4; */
 #inputMessage {
@@ -23,4 +23,5 @@ form {
 #inputEmail,
 #firstName {
     background-color:#c4c4c4 ;
+    height: 6vh;
 }

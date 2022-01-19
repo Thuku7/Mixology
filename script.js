@@ -7,26 +7,26 @@ $(document).ready(function () {
     });
   });
   $(document).ready(function () {
-    $(".portfolio2").mouseenter(function () {
+    $(".cocktail2").mouseenter(function () {
       $(".title2").show();
     });
-    $(".portfolio2").mouseleave(function () {
+    $(".cocktail2").mouseleave(function () {
       $(".title2").hide();
     });
   });
   $(document).ready(function () {
-    $(".portfolio3").mouseenter(function () {
+    $(".cocktail3").mouseenter(function () {
       $(".title3").show();
     });
-    $(".portfolio3").mouseleave(function () {
+    $(".cocktail3").mouseleave(function () {
       $(".title3").hide();
     });
   });
   $(document).ready(function () {
-    $(".portfolio4").mouseenter(function () {
+    $(".cocktail4").mouseenter(function () {
       $(".title4").show();
     });
-    $(".portfolio4").mouseleave(function () {
+    $(".cocktail44").mouseleave(function () {
       $(".title4").hide();
     });
   });

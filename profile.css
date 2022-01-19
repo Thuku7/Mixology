@@ -1,8 +1,10 @@
 body{background-color: #334257;}
 .section-1{
-   
-    height: 25rem;
-
+   background-image: url(pics/back.jpeg);
+    height: 35rem;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 
 }
 #image{
@@ -47,4 +49,13 @@ body{background-color: #334257;}
 
     height: 25rem;
     padding: 0 1rem;
+}
+.section-3{
+    height: auto;
+    text-align: center;
+   background-color: #c4c4c4;
+}
+.imggg{
+   margin: 1rem;
+   flex-wrap: wrap;
 }

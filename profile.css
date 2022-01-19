@@ -1,10 +1,8 @@
 body{background-color: #334257;}
 .section-1{
-    background-image: url(pics/photo-1563223771-5fe4038fbfc9.jpeg);
-    background-size: cover;
-    background-repeat: no-repeat;
+   
     height: 25rem;
-    background-position: center;
+
 
 }
 #image{
@@ -12,8 +10,7 @@ body{background-color: #334257;}
 }
 .section-2{
     height: auto;
-/* 
-    text-align: center; */
+
 }
 .align-center{
     text-align: center;
@@ -39,4 +36,15 @@ body{background-color: #334257;}
 .bitter{
     padding: 5rem 4rem;
    
+}
+.mix{
+    float: right;
+    padding-top: 17rem;
+    padding: 0rem 8rem;
+
+}
+.picc{
+
+    height: 25rem;
+    padding: 0 1rem;
 }

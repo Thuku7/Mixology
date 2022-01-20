@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+
+.order{
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(51, 66, 87, 1);
+  position: relative;
+  
+  
+
+}
+
+
+
+.order-picture {
+  background-image: url(https://images.unsplash.com/photo-1605270012917-bf157c5a9541?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 70vh;
+  position: relative;
+  
+text-align: center;
+}
+
+.picture-text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.order-text {
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.order-input {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  gap: 1;
+  margin-left: 100px;
+}
+
+.DateBirth {
+  flex: 1;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 150px;
+}
+
+.last-input {
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-right: 100px;
+}
+
+
+.form-check {
+  margin-left: 400px;
+}
+
+button {
+  margin-top: 20px;
+  
+}
+
+
+#contact {
+  color: black;
+  background-color: #334257;
+}
+#contactdetails h2 {
+  text-align: center;
+}
+.col-md-4 {
+  text-align: center;
+}
+#contact-us {
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+}
+#copyright {
+  color: white;
+  font-size: 15px;
+}
+.title1,
+.title2,
+.title3,
+.title4{
+  display: none;
+  color:white;
+  position: absolute;
+  padding: 50px 50px;
+  margin-top: 17px;
+  text-align: right;
+}

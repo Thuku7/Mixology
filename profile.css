@@ -1,0 +1,107 @@
+body{background-color: #334257;}
+.section-1{
+   background-image: url(pics/kobby-mendez-xBFTjrMIC0c-unsplash.jpg);
+    height: 35rem;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+#image{
+    height: 7rem;
+}
+.section-2{
+    height: auto;
+
+}
+.align-center{
+    text-align: center;
+}
+#heading{
+    padding-top: 1rem;
+   font-weight: bold;
+}
+.pic{
+    height: 25rem;
+    padding: 0 6rem;
+}
+.sweet{
+    float: right;
+    padding-top: 9rem;
+    
+}
+.bitter-img{ 
+    float: right;
+    margin-top: -37rem;
+    padding: 0rem 17rem;
+}
+.bitter{
+    padding: 5rem 4rem;
+   
+}
+.mix{
+    float: right;
+    padding-top: 17rem;
+    padding: 0rem 8rem;
+
+}
+.picc{
+
+    height: 25rem;
+    padding: 0 1rem;
+}
+.section-3{
+    height: 24rem;
+    text-align: center;
+   background-color: #c4c4c4;
+}
+.imggg{
+   margin: 1rem;
+   
+}
+.name{
+    display: none;
+    /* position: absolute; */
+    top: 50%;
+    left: 50%;
+    transform: translate(-10%, -105%);
+}
+
+
+#contact {
+    color: black;
+    background-color: #334257;
+    
+}
+
+#contactdetails h2 {
+    text-align: center;
+}
+
+.col-md-4 {
+    text-align: center;
+}
+
+#contact-us {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#copyright {
+    color: white;
+    font-size: 15px;
+}
+
+.title1,
+.title2,
+.title3,
+.title4{
+    display: none;
+    color:white;
+    position: absolute;
+    padding: 50px 50px;
+    margin-top: 17px;
+   
+    text-align: right;
+}

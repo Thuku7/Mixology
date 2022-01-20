@@ -4,21 +4,22 @@ A web listing of available therapists.
 ### Description
  Cocktail Courtier is a web platform that enables customers to order cocktails and also view cocktail recipes from the site.
 ##### Design
-<img  src="pics/newwww.png" alt="final design">
+<img  src="pics/newww.png" alt="final design">
 
 ### Demo
 Live Demo
 
 ##### Technologies Used
-HTML
-CSS
-JavaScript
+:HTML
+:CSS
+:JavaScript
 
 ##### Contributors
-Robert Thuku  
-Esther Mureithi 
-Memory Wabwile
-Joseph Wairimu 
+
+:Robert Thuku  
+:Esther Mureithi 
+:Memory Wabwile
+:Joseph Wairimu 
 
 ##### Project setup and instructions
 The page is deployed  and here is the link.

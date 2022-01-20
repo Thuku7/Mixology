@@ -26,7 +26,7 @@ $(document).ready(function () {
     $(".cocktail4").mouseenter(function () {
       $(".title4").show();
     });
-    $(".cocktail44").mouseleave(function () {
+    $(".cocktail4").mouseleave(function () {
       $(".title4").hide();
     });
   });

@@ -1,5 +1,5 @@
 ###  Cocktail Courtier
-A web listing of available therapists.
+A web listing of cocktail orders.
 
 ### Description
  Cocktail Courtier is a web platform that enables customers to order cocktails and also view cocktail recipes from the site.

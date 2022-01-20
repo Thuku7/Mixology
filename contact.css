@@ -29,3 +29,51 @@ img{
     height: 50vh;
     width: 100%;
 }
+
+#contact {
+  color: black;
+  background-color: #334257;
+}
+#contactdetails h2 {
+  text-align: center;
+}
+.col-md-4 {
+  text-align: center;
+}
+#contact-us {
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+}
+#copyright {
+  color: white;
+  font-size: 15px;
+}
+.title1,
+.title2,
+.title3,
+.title4{
+  display: none;
+  color:white;
+  position: absolute;
+  padding: 50px 50px;
+  margin-top: 17px;
+  text-align: right;
+}
+
+#mainn{
+  background-image: url("immg/cocktails2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 70vh;
+  
+}
+
+
+
+
+
+
+

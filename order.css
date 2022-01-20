@@ -32,8 +32,35 @@
   align-items: center;
 }
 
-form {
+.order-input {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  gap: 1;
+  margin-left: 100px;
+}
+
+.DateBirth {
+  flex: 1;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 150px;
+}
+
+.last-input {
   display: flex;
   flex-direction: column;
-  flex: 1;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-right: 100px;
+}
+
+
+.form-check {
+  margin-left: 400px;
+}
+
+button {
+  margin-top: 20px;
 }

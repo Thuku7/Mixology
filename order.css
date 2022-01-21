@@ -24,10 +24,14 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+<<<<<<< HEAD
   height: 80vh;
+=======
+  height: 70vh;
+>>>>>>> 43b439d2c6a945b31b2c7f450958511caf3a4e61
   position: relative;
   
-
+text-align: center;
 }
 
 .picture-text{

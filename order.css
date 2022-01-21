@@ -3,7 +3,9 @@
   padding: 0;
   scroll-behavior: smooth;
 }
-
+ body {
+   color: white;
+ }
 
 .order{
   display: flex;
@@ -22,7 +24,11 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+<<<<<<< HEAD
+  height: 80vh;
+=======
   height: 70vh;
+>>>>>>> 43b439d2c6a945b31b2c7f450958511caf3a4e61
   position: relative;
   
 text-align: center;
@@ -33,6 +39,7 @@ text-align: center;
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
+  font-size: 30px;
 }
 
 .order-text {
